@@ -1,0 +1,5 @@
+/Users/PierreCyril/Projects/Gladiator/Gladiator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/PierreCyril/Projects/Gladiator/Gladiator/bin/Debug/Gladiator.exe.mdb
+/Users/PierreCyril/Projects/Gladiator/Gladiator/bin/Debug/Gladiator.exe
+/Users/PierreCyril/Projects/Gladiator/Gladiator/obj/x86/Debug/Gladiator.exe
+/Users/PierreCyril/Projects/Gladiator/Gladiator/obj/x86/Debug/Gladiator.exe.mdb

@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Gladiator/Gladiator.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gladiator/Program.cs">
+    <Files>
+      <File FileName="Gladiator/Program.cs" Line="18" Column="4" />
+      <File FileName="Gladiator/Gladiator.cs" Line="14" Column="17" />
+      <File FileName="Gladiator/Stuff.cs" Line="53" Column="1" />
+      <File FileName="Gladiator/Weapons/Lance.cs" Line="19" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gladiator" expanded="True">
+            <Node name="cafe" expanded="True" />
+            <Node name="Gladiator" expanded="True">
+              <Node name="Weapons" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="testApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
